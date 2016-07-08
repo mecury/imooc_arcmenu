@@ -19,3 +19,5 @@
     </declare-styleable>
 </resources>
 ```
+演示动画：
+![GIF.gif](https://github.com/mecury/imooc_arcmenu/blob/master/Previews/GIF.gif)
